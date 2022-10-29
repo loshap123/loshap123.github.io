@@ -1,3 +1,20 @@
+Package: name.alleon.ifile
+Version: 2.0.1-1
+Section: App
+Maintainer: Alleon <andjerk@gmail.com>
+Depends: file-cmds, zip, unzip, p7zip, gzip, bzip2, unrar, diskdev-cmds, name.alleon.logorepo
+Architecture: iphoneos-arm
+Filename: Files/ifile/com.gagagoose.ifile_2.0.1-1_iphoneos-arm.deb
+Size: 8941132
+Installed-Size: 18780
+MD5sum: 911e4f6de8389dcd7b833294845d0ec0
+Description: iFile – файловый менеджер. С помощью программы можно просматривать и редактировать различные файлы, в том числе и PDF. Умеет работать с ZIP архивами. Поддерживает отправку файлов по e-mail.
+Name: iFile
+Author: Carsten Heinelt <ifile@iphone.heinelt.eu>
+Homepage: http://alleon.name/packet/ifile
+Depiction: http://www.newapps.ru/depiction/ifile.html
+Icon: file:///Applications/iFile.app/Icon.png
+
 Package: org.h6nry.adowngrader
 Version: 0.0.2-7
 Section: Tweaks
