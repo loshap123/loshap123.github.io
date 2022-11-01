@@ -1,3 +1,19 @@
+Package: cn.747.wifinderpro
+Version: 1.2.2-22
+Section: Utilities
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 5.0)
+Architecture: iphoneos-arm
+Filename: Files/wififreepasspro/wifinderpro_1.2.2-22.deb
+Size: 11438518
+Installed-Size: 25119
+MD5sum: 120ab718d11d877aa5d1f3ff2278cd6a
+Description: WiFi免费通专业版可以快速查找周边热点，通过我们提供的数十万热点密码库，一键连接周边热点,还有免费上网卡可以获取
+Name: WiFi免费通专业版
+Author: 747 <liuchao@747.cn>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wifinderproDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wifinderproDp
+
 Package: org.altervista.exilecom.icleaner
 Version: 7.7.0
 Section: Utilities
